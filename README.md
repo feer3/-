@@ -1,3 +1,1 @@
 <h1> task93 </h1>
-**Task93** is a lightweight JavaScript library designed to simplify task management in web applications. It offers an intuitive API for creating, tracking, and organizing tasks with minimal setup, supporting features like priority sorting, due dates, and progress tracking. Ideal for small to medium projects, Task93 integrates seamlessly with existing workflows and requires no dependencies. Its modular design allows for easy customization, making it a versatile choice for developers looking to enhance productivity without bloated code. Available as open-source on GitHub, Task93 is free to use and extend under the MIT license.
-
